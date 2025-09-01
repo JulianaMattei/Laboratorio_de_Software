@@ -1,6 +1,5 @@
-package geometria;
+package punto4_serializable;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class PaintTest {
