@@ -1,7 +1,8 @@
 package punto4;
 
 public class Logger {
-    public Logger loggerInstance;
+    
+    private Logger loggerInstance;
 
     private Logger(){}
 
